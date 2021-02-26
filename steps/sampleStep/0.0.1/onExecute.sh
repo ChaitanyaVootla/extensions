@@ -4,5 +4,3 @@ sampleStepType001() {
 }
 
 execute_command "sampleStepType001"
-
-
